@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782061934345",
+    "project_id": "localizaciones-c57f7",
+    "storage_bucket": "localizaciones-c57f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782061934345:android:27fc2df7f519209c8aa5d8",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_practica1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782061934345-382t1925efdcs2locvnhqdf41a0pgsh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.tecnm.tepic.ladm_u5_practica1",
+            "certificate_hash": "60f1ffce9827838167cf5fd12840beedddacdb36"
+          }
+        },
+        {
+          "client_id": "782061934345-70ve99kuas81qbcom6pojemc9fs109fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX59iNNspOHym3yb7xTtDWbBWI57zIsZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782061934345-70ve99kuas81qbcom6pojemc9fs109fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
